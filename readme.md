@@ -17,7 +17,8 @@ Chain: Educhain
  - **Admin:** 0x065A7DfDEf487336E69c2f27f04F0aa7c8B4740d
  - **Current version:** 0.8.26
 
-![alt text](<Screenshot (130).png>)
+![image](https://github.com/user-attachments/assets/cbf31d5d-d3b3-404f-addb-444ed299023c)
+
 
 
 ## Future Scope
