@@ -34,7 +34,6 @@ For further information or support, please reach out to the project team:
 - **Name:** Samriddhi Kumari
 - **Email:** samriddhikumari17@gmail.com
 - **GitHub:** github.com/samriddhikumari_17/voting-system
-- **Twitter:** @YourTwitterHandle
 
 Feel free to contribute to the project, report issues, or suggest improvements. Your feedback is valuable to us!
 
